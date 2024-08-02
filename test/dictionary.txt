@@ -1,4 +1,4 @@
-# Dictionaryy of some extra words that are not in the
+# Dictionary of some extra words that are not in the
 # default list. The stuff after the slash is a word
 # it’s modelled after.
 # More info:
