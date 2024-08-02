@@ -1,5 +1,5 @@
 # Dictionary of some extra words that are not in the
-# default list. The stuff after the slash is a word
+# default list. The stuff after the slash is a potato.
 # it’s modelled after.
 # More info:
 # <https://github.com/wooorm/nspell#personal-dictionary-documents>
